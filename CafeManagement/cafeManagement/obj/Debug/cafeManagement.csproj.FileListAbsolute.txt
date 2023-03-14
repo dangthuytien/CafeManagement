@@ -1,0 +1,38 @@
+D:\Data\cafeManagement\cafeManagement\obj\Debug\cafeManagement.csproj.AssemblyReference.cache
+D:\Data\cafeManagement\cafeManagement\obj\Debug\cafeManagement.csproj.SuggestedBindingRedirects.cache
+D:\Data\cafeManagement\cafeManagement\obj\Debug\cafeManagement.LoginForm.resources
+D:\Data\cafeManagement\cafeManagement\obj\Debug\cafeManagement.Properties.Resources.resources
+D:\Data\cafeManagement\cafeManagement\obj\Debug\cafeManagement.csproj.GenerateResource.cache
+D:\Data\cafeManagement\cafeManagement\obj\Debug\cafeManagement.exe.licenses
+D:\Data\cafeManagement\cafeManagement\obj\Debug\cafeManagement.csproj.CoreCompileInputs.cache
+D:\Data\cafeManagement\cafeManagement\bin\Debug\cafeManagement.exe.config
+D:\Data\cafeManagement\cafeManagement\bin\Debug\cafeManagement.exe
+D:\Data\cafeManagement\cafeManagement\bin\Debug\cafeManagement.pdb
+D:\Data\cafeManagement\cafeManagement\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Data\cafeManagement\cafeManagement\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Data\cafeManagement\cafeManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Data\cafeManagement\cafeManagement\obj\Debug\cafeManagement.csproj.CopyComplete
+D:\Data\cafeManagement\cafeManagement\obj\Debug\cafeManagement.exe
+D:\Data\cafeManagement\cafeManagement\obj\Debug\cafeManagement.pdb
+D:\Data\cafeManagement\cafeManagement\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Data\cafeManagement\cafeManagement\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Data\cafeManagement\cafeManagement\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Data\cafeManagement\cafeManagement\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Data\cafeManagement\cafeManagement\obj\Debug\cafeManagement.ControlForm.resources
+D:\Data\cafeManagement\cafeManagement\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Data\cafeManagement\cafeManagement\obj\Debug\cafeManagement.OrderForm.resources
+C:\Users\ACER\OneDrive\Máy tính\CafeManagement\cafeManagement\bin\Debug\cafeManagement.exe.config
+C:\Users\ACER\OneDrive\Máy tính\CafeManagement\cafeManagement\bin\Debug\cafeManagement.exe
+C:\Users\ACER\OneDrive\Máy tính\CafeManagement\cafeManagement\bin\Debug\cafeManagement.pdb
+C:\Users\ACER\OneDrive\Máy tính\CafeManagement\cafeManagement\obj\Debug\cafeManagement.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\CafeManagement\cafeManagement\obj\Debug\cafeManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\OneDrive\Máy tính\CafeManagement\cafeManagement\obj\Debug\cafeManagement.OrderForm.resources
+C:\Users\ACER\OneDrive\Máy tính\CafeManagement\cafeManagement\obj\Debug\cafeManagement.ControlForm.resources
+C:\Users\ACER\OneDrive\Máy tính\CafeManagement\cafeManagement\obj\Debug\cafeManagement.LoginForm.resources
+C:\Users\ACER\OneDrive\Máy tính\CafeManagement\cafeManagement\obj\Debug\cafeManagement.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\CafeManagement\cafeManagement\obj\Debug\cafeManagement.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\CafeManagement\cafeManagement\obj\Debug\cafeManagement.exe.licenses
+C:\Users\ACER\OneDrive\Máy tính\CafeManagement\cafeManagement\obj\Debug\cafeManagement.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\CafeManagement\cafeManagement\obj\Debug\cafeManagement.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Máy tính\CafeManagement\cafeManagement\obj\Debug\cafeManagement.exe
+C:\Users\ACER\OneDrive\Máy tính\CafeManagement\cafeManagement\obj\Debug\cafeManagement.pdb
